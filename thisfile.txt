@@ -1,5 +1,6 @@
 first change in master
 
-change after test
+change under test
 
-fixed
+test feature here
+new feature
