@@ -1,0 +1,11 @@
+first change in master
+
+<<<<<<< HEAD
+change after test
+
+fixed
+=======
+change under test
+
+test feature here
+>>>>>>> test
